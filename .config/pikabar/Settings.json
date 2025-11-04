@@ -1,0 +1,48 @@
+{
+    "audioCodec": "opus",
+    "barMonitors": [
+        "HDMI-A-1"
+    ],
+    "bluetoothEnabled": true,
+    "colorRange": "limited",
+    "currentWallpaper": "/usr/share/wallpapers/pika/Wallpaper_PikaOS_Parrot_8K.png",
+    "dimPanels": false,
+    "dockExclusive": false,
+    "dockMonitors": [
+    ],
+    "fontSizeMultiplier": 1,
+    "monitorScaleOverrides": null,
+    "notificationMonitors": [
+    ],
+    "pinnedExecs": [
+    ],
+    "profileImage": "/home/felipe/.face",
+    "randomWallpaper": true,
+    "recordingCodec": "h264",
+    "recordingFrameRate": 60,
+    "recordingQuality": "very_high",
+    "reverseDayMonth": false,
+    "showActiveWindow": true,
+    "showActiveWindowIcon": true,
+    "showCorners": false,
+    "showCursor": true,
+    "showDock": false,
+    "showMediaInBar": true,
+    "showSystemInfoInBar": true,
+    "showTaskbar": false,
+    "taskbarIconSize": 24,
+    "transitionDuration": 1.1,
+    "transitionFps": 60,
+    "transitionType": "random",
+    "use12HourClock": false,
+    "useFahrenheit": false,
+    "useSWWW": false,
+    "useWallpaperTheme": false,
+    "videoPath": "~/Videos/",
+    "visualizerType": "radial",
+    "wallpaperFolder": "/usr/share/wallpapers/pika",
+    "wallpaperInterval": 600,
+    "wallpaperResize": "crop",
+    "weatherCity": "Flores da Cunha",
+    "wifiEnabled": true
+}
