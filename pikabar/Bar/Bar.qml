@@ -41,7 +41,7 @@ Scope {
                     anchors.top: true
                     anchors.left: true
                     anchors.right: true
-                    visible: Settings.settings.barMonitors.includes(modelData.name) || (Settings.settings.barMonitors.length === 0)
+                    visible: Settings.settings.barMonitors.includes(modelData.name)
 
                     Rectangle {
                         id: barBackground
