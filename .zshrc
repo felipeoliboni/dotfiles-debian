@@ -21,6 +21,7 @@ alias lla='ls -la'
 alias lt='ls --tree'
 alias pacman='sudo pacman'
 alias code='code --new-window --wait'
+alias apt='sudo apt'
 
 alias cam='
 if ! lsmod | grep -q v4l2loopback; then
@@ -32,7 +33,7 @@ scrcpy \
   --camera-size=1920x1080 \
   --camera-fps=30 \
   --orientation=90 \
-  --v4l2-sink=/dev/video0 \
+  --v4l2-sink=/dev/video7 \
   --no-audio \
   --no-playback'
 
